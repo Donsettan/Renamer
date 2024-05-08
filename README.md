@@ -1,5 +1,9 @@
 ### Give a star and Fork the Repo or You can Use this as a Template also.
 
+## Deploy To Koyeb
+
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/Donsettan/Renamer&env[BOT_TOKEN]&env[API_ID]&env[API_HASH]&env[ADMIN]&env[DB_URL]&env[DB_NAME]=pyro-botz&env[FORCE_SUB]&run_command=python%20bot.py&branch=main&name=pyro-rename) 
+
 ####  Features
  - Renames very fast .
  - Permanent Thumbnail support.
